@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pypdf
+faiss-cpu
+numpy
+streamlit
+requests
+langchain
+langchain-community
+google-cloud-aiplatform
